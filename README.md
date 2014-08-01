@@ -93,6 +93,7 @@ Feel free to contribute!
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
+* [snappy](https://github.com/Masonry/Snappy) - Swift port of Masonry Auto Layout DSL
 
 ### Colors
 
@@ -139,6 +140,7 @@ Feel free to contribute!
 * [agent](https://github.com/hallas/agent) - http request agent.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+* [alamofire](https://github.com/Alamofire/Alamofire) - Elegant Networking in Swift
 
 ### Keyboard
 *Do you want to create your own customized keyboard? Here some interesting resources*
